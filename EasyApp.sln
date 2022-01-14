@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyApp", "EasyApp\EasyApp.csproj", "{12636E84-9725-40AB-A481-2ED005D95679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12636E84-9725-40AB-A481-2ED005D95679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12636E84-9725-40AB-A481-2ED005D95679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12636E84-9725-40AB-A481-2ED005D95679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12636E84-9725-40AB-A481-2ED005D95679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B773AEE0-FD11-48F7-B0BA-D0629596850E}
+	EndGlobalSection
+EndGlobal
